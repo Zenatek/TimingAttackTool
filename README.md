@@ -31,6 +31,7 @@ Per esempio
 
 ```
 python2.7 daje.py http://192.168.33.10/sqli/time_based_blind.php GET 'email=arthur@guide.com'
+
 python2.7 daje.py http://vip.hacking.w3challs.com/index.php?page=contact POST 'destin=1&&msg=1'
 ```
 
