@@ -3,7 +3,7 @@ Piccolo tool per effettuare attacchi su mysql sia con richieste GET che POST.
 
 ### Prerequisiti
 
-Per funziona il tool necessita di python 2. Attenzione non funzionerà con python 3.
+Per funzionare il tool necessita di python 2. Attenzione non funzionerà con python 3.
 
 ```
 Python 2.7
